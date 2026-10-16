@@ -1,0 +1,14 @@
+{
+  "Name": "Madeiras: Cereja e Acácia",
+  "Version": "0.2.0",
+  "ApiVersion": "1.9.3",
+  "Description": "Madeira de cereja e de acácia: tronco, tábuas, escada, meio bloco, porta, alçapão, cerca, portão, placas, placa de pressão e tábuas com cabo.",
+  "ScVersion": "2.4.0.0",
+  "LoadOrder": 0,
+  "NonPersistentMod": false,
+  "GameplayImpactLevel": "Cosmetic",
+  "Author": "Você",
+  "PackageName": "user.CherryAcaciaWoods",
+  "Dependencies": {},
+  "Settings": []
+}
